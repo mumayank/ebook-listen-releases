@@ -1,0 +1,13 @@
+{
+  "app": "ebook-listen",
+  "version": "0.1.0",
+  "releasedAt": "2026-09-13",
+  "notes": "First visible release: Library shell with theme cycling and filters.",
+  "artifacts": {
+    "android": { "url": null, "sizeBytes": null },
+    "desktop-macos-arm64": { "url": null, "sizeBytes": null },
+    "desktop-windows-x64": { "url": null, "sizeBytes": null },
+    "desktop-linux-x64": { "url": null, "sizeBytes": null },
+    "ios": { "testflight": null, "appStore": null }
+  }
+}
