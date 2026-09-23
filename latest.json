@@ -1,13 +1,13 @@
 {
   "app": "ebook-listen",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "releasedAt": "2026-09-23",
-  "notes": "Automated release v0.2.1.",
+  "notes": "Automated release v0.2.2.",
   "artifacts": {
-    "android": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.2.1/ebook-listen-v0.2.1-debug.apk", "sizeBytes": 12295543 },
-    "desktop-macos-arm64": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.2.1/ebook-listen-v0.2.1.dmg", "sizeBytes": 71269400 },
-    "desktop-windows-x64": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.2.1/ebook-listen-v0.2.1.msi", "sizeBytes": 61438289 },
-    "desktop-linux-x64": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.2.1/ebook-listen-v0.2.1.deb", "sizeBytes": 56686108 },
+    "android": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.2.2/ebook-listen-v0.2.2-debug.apk", "sizeBytes": 12339491 },
+    "desktop-macos-arm64": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.2.2/ebook-listen-v0.2.2.dmg", "sizeBytes": 71067405 },
+    "desktop-windows-x64": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.2.2/ebook-listen-v0.2.2.msi", "sizeBytes": 61344272 },
+    "desktop-linux-x64": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.2.2/ebook-listen-v0.2.2.deb", "sizeBytes": 56518986 },
     "ios": { "testflight": null, "appStore": null }
   }
 }
