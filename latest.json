@@ -1,12 +1,12 @@
 {
   "app": "stories",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "releasedAt": "2026-09-24",
-  "notes": "Local release v0.10.0.",
+  "notes": "Combined tester build - Library + Reader + Listen. Android APK, macOS DMG, Linux .deb, iOS unsigned zip, Web app.",
   "artifacts": {
-    "android": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.10.0/stories-v0.10.0.apk", "sizeBytes": 23866449 },
-    "desktop-macos-arm64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.10.0/stories-v0.10.0.dmg", "sizeBytes": 109533631 },
-    "desktop-linux-x64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.10.0/stories-v0.10.0.deb", "sizeBytes": 89631844 },
+    "android": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.10.1/stories-v0.10.1.apk", "sizeBytes": 23866445 },
+    "desktop-macos-arm64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.10.1/stories-v0.10.1.dmg", "sizeBytes": 109551154 },
+    "desktop-linux-x64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.10.1/stories-v0.10.1.deb", "sizeBytes": 89631802 },
     "ios": { "testflight": null, "appStore": null }
   }
 }
