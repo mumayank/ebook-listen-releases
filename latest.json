@@ -1,12 +1,12 @@
 {
-  "app": "ebook-listen",
-  "version": "0.6.1",
+  "app": "stories",
+  "version": "0.7.0",
   "releasedAt": "2026-09-24",
-  "notes": "Local release v0.6.1.",
+  "notes": "Local release v0.7.0.",
   "artifacts": {
-    "android": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.6.1/ebook-listen-v0.6.1.apk", "sizeBytes": 11465026 },
-    "desktop-macos-arm64": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.6.1/ebook-listen-v0.6.1.dmg", "sizeBytes": 97274687 },
-    "desktop-linux-x64": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.6.1/ebook-listen-v0.6.1.deb", "sizeBytes": 77528152 },
+    "android": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.7.0/stories-v0.7.0.apk", "sizeBytes": 11685134 },
+    "desktop-macos-arm64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.7.0/stories-v0.7.0.dmg", "sizeBytes": 97352116 },
+    "desktop-linux-x64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.7.0/stories-v0.7.0.deb", "sizeBytes": 77538784 },
     "ios": { "testflight": null, "appStore": null }
   }
 }
