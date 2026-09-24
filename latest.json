@@ -4,9 +4,9 @@
   "releasedAt": "2026-09-24",
   "notes": "Local release v0.19.0.",
   "artifacts": {
-    "android": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.19.0/stories-v0.19.0.apk", "sizeBytes": 149735023 },
-    "desktop-macos-arm64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.19.0/stories-v0.19.0.dmg", "sizeBytes": 109880942 },
-    "desktop-linux-x64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.19.0/stories-v0.19.0.deb", "sizeBytes": 89916436 },
+    "android": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.19.0/stories-v0.19.0.apk", "sizeBytes": 149516439 },
+    "desktop-macos-arm64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.19.0/stories-v0.19.0.dmg", "sizeBytes": 109885292 },
+    "desktop-linux-x64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.19.0/stories-v0.19.0.deb", "sizeBytes": 89907774 },
     "ios": { "testflight": null, "appStore": null }
   }
 }
