@@ -1,12 +1,12 @@
 {
   "app": "stories",
-  "version": "0.19.0",
+  "version": "0.20.0",
   "releasedAt": "2026-09-24",
-  "notes": "Local release v0.19.0.",
+  "notes": "Local release v0.20.0.",
   "artifacts": {
-    "android": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.19.0/stories-v0.19.0.apk", "sizeBytes": 149516439 },
-    "desktop-macos-arm64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.19.0/stories-v0.19.0.dmg", "sizeBytes": 109885292 },
-    "desktop-linux-x64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.19.0/stories-v0.19.0.deb", "sizeBytes": 89907774 },
+    "android": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.20.0/stories-v0.20.0.apk", "sizeBytes": 149735119 },
+    "desktop-macos-arm64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.20.0/stories-v0.20.0.dmg", "sizeBytes": 109881597 },
+    "desktop-linux-x64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.20.0/stories-v0.20.0.deb", "sizeBytes": 89916396 },
     "ios": { "testflight": null, "appStore": null }
   }
 }
