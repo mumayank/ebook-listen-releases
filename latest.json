@@ -1,12 +1,12 @@
 {
   "app": "stories",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "releasedAt": "2026-09-24",
-  "notes": "Local release v0.13.0.",
+  "notes": "Supertonic 3 voice engine",
   "artifacts": {
-    "android": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.13.0/stories-v0.13.0.apk", "sizeBytes": 149701271 },
-    "desktop-macos-arm64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.13.0/stories-v0.13.0.dmg", "sizeBytes": 109797525 },
-    "desktop-linux-x64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.13.0/stories-v0.13.0.deb", "sizeBytes": 89887958 },
+    "android": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.14.0/stories-v0.14.0.apk", "sizeBytes": 149701787 },
+    "desktop-macos-arm64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.14.0/stories-v0.14.0.dmg", "sizeBytes": 109810648 },
+    "desktop-linux-x64": { "url": "https://github.com/mumayank/stories-releases/releases/download/v0.14.0/stories-v0.14.0.deb", "sizeBytes": 89903560 },
     "ios": { "testflight": null, "appStore": null }
   }
 }
