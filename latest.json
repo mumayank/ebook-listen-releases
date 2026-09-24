@@ -1,12 +1,12 @@
 {
   "app": "ebook-listen",
-  "version": "0.5.6",
-  "releasedAt": "2026-09-23",
-  "notes": "Local release v0.5.6.",
+  "version": "0.6.0",
+  "releasedAt": "2026-09-24",
+  "notes": "Local release v0.6.0.",
   "artifacts": {
-    "android": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.5.6/ebook-listen-v0.5.6.apk", "sizeBytes": 11448646 },
-    "desktop-macos-arm64": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.5.6/ebook-listen-v0.5.6.dmg", "sizeBytes": 97225391 },
-    "desktop-linux-x64": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.5.6/ebook-listen-v0.5.6.deb", "sizeBytes": 77479622 },
+    "android": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.6.0/ebook-listen-v0.6.0.apk", "sizeBytes": 11465030 },
+    "desktop-macos-arm64": { "url": "https://github.com/mumayank/ebook-listen-releases/releases/download/v0.6.0/ebook-listen-v0.6.0.dmg", "sizeBytes": 97334382 },
+    "desktop-linux-x64": null,
     "ios": { "testflight": null, "appStore": null }
   }
 }
